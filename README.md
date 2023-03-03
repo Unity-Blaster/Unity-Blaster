@@ -17,7 +17,7 @@
 
 # Misc
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="https://github.com/Unity-Blaster/Unity-Blaster/blob/main/contributions.svg"></a>
 
 
 <!--

@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi There, Github Surfer! 👋
+**This is the hobby-ist account of Vedant Srivastava. Can't provide more info. 'bout him.**
+
+# About Unity/Vedant
+
+- 🔭 He's currently working on [His own website/TestSite](https://unity-blaster.github.io/TestSite).
+- 🌱 He's currently learning [Web Development](https://en.wikipedia.org/wiki/Web_development) ([HTML](https://github.com/topics/html) + [CSS](https://github.com/topics/css) + [Javascript](https://github.com/topics/javascript))
+- 👯 He's currently not looking to collaborate. However, if you mant to collab with him, then hit him up anyways, that'll be much apprieciated!
+- 💬 Ask him about anything just other than more info. about him irl.
+- 📫 How to reach Him: Just start a discussion on any of [His Projects](https://github.com/Unity-Blaster/Unity-Blaster/edit/main/README.md#projects-hes-worked-on).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: He' a Tech Nerd 🤓👨🏻‍💻 (😲Shocker!).
+
+# Projects He's Worked On
+1. [TestSite](https://unity-blaster.github.io/TestSite)
+2. [More to come!]
 
 <!--
 **Unity-Blaster/Unity-Blaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
